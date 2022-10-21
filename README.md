@@ -1,16 +1,13 @@
-#### Hi there, I'm Raymond 👋
+## Hi there, I'm Raymond 👋
+Welcome to my page!
 
-<!--
-**RaymondYan38/RaymondYan38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a computer science major at UC Irvine, interested in developing new technologies for building new projects. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I am currently up to
+Full Stack Developer for Commit the Change @ UCI
+Lab Tutor for UCI Donald Bren School of Information and Computer Sciences
+
+### Reach me here
+https://www.linkedin.com/in/yan-raymond/
