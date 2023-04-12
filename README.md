@@ -7,7 +7,6 @@ I am a computer science major at UC Irvine, interested in developing new technol
 
 ### What I am currently up to
 -Full Stack Developer for Commit the Change @ UCI <br />
--Lab Tutor for UCI Donald Bren School of Information and Computer Sciences
 
 ### Reach me [here](https://www.linkedin.com/in/yan-raymond/)
 
