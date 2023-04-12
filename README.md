@@ -2,7 +2,7 @@
 Welcome to my page!
 
 ### About Me
-I am a computer science major at UC Irvine, interested in developing new technologies for building new projects. 
+I am a Computer Science student at UC Irvine and am interested in software engineering and social impact. Through my work, I hope to be able to make others' lives better.
 
 
 ### What I am currently up to
