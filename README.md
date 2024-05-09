@@ -6,7 +6,7 @@ I am a Computer Science student at UC Irvine and am interested in software engin
 
 
 ### What I am currently up to
--Full Stack Developer for Commit the Change @ UCI <br />
+- Software Developer @ Calit2 - UCI Division <br />
 
 ### Reach me [here](https://www.linkedin.com/in/yan-raymond/)
 
