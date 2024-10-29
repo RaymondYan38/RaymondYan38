@@ -6,7 +6,7 @@ I am a Computer Science student at UC Irvine and am interested in software engin
 
 
 ### What I am currently up to
-- Software Developer @ Calit2 - UCI Division <br />
+- Building... <br />
 
 ### Reach me [here](https://www.linkedin.com/in/yan-raymond/)
 
